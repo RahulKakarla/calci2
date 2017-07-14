@@ -15,6 +15,6 @@ public class CalculatorTest extends TestCase {
 		assertTrue(c.sub(9,5)==4);
 	}
 	public void testDivison(){
-		assertTrue(c.divison(6,3)==2);
+		assertTrue(c.divison(6,3)==4);
 	}
 }
